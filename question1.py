@@ -1,4 +1,4 @@
-class Grade()
+class Grade():
     def __init__(self, id, subject_name, student_id, grade):
         self.id = id
         self.subject_name = subject_name
