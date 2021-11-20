@@ -58,3 +58,4 @@ def __add__(self, other):
 def __sub__(self, other):
     self.grade -= other
     return self
+
